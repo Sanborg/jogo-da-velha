@@ -621,11 +621,23 @@ namespace jogo_da_velha
                 
             }
             /*
+             *   |   | 
+             *   | O | 
+             *   |   | 
+             */
+            else if (imagensExtremidadesX[0].Visibility == Visibility.Hidden && imagensExtremidadesO[0].Visibility == Visibility.Hidden && imagemPosicaoCentralX.Visibility == Visibility.Visible && imagemPosicaoCentralO.Visibility == Visibility.Visible && jogadaEfetuada == false && jogadorDaVez == "Computador")
+            {
+                ExibirImagem(imagensExtremidadesO[0]);
+                jogadaEfetuada = true;
+                jogadorDaVez = "Jogador";
+
+            }
+            /*
              *   |   | O
              *   | O | X
              *   | X | 
              */
-            else if (jogadaEfetuada == false && jogadorDaVez == "Computador")
+            if (jogadaEfetuada == false && jogadorDaVez == "Computador")
             {
                 for (int j = 0; j < 2; j++)
                 {
@@ -668,23 +680,11 @@ namespace jogo_da_velha
                 }
             }
             /*
-             *   |   | 
-             *   | O | 
-             *   |   | 
-             */
-            else if (imagensExtremidadesX[0].Visibility == Visibility.Hidden && imagensExtremidadesO[0].Visibility == Visibility.Hidden && imagemPosicaoCentralX.Visibility == Visibility.Visible && imagemPosicaoCentralO.Visibility == Visibility.Visible && jogadaEfetuada == false && jogadorDaVez == "Computador")
-            {
-                ExibirImagem(imagensExtremidadesO[0]);
-                jogadaEfetuada = true;
-                jogadorDaVez = "Jogador";
-                
-            }
-            /*
              * X |   |
              *   | O |
              *   |   | O
              */
-            else if (jogadaEfetuada == false && jogadorDaVez == "Computador")
+            if (jogadaEfetuada == false && jogadorDaVez == "Computador")
             {
                 for (int i = 0; i < 4; i++)
                 {
@@ -717,7 +717,7 @@ namespace jogo_da_velha
              *   | O |
              *   |   | 
              */
-            else if (jogadaEfetuada == false && jogadorDaVez == "Computador")
+            if (jogadaEfetuada == false && jogadorDaVez == "Computador")
             {
                 for(int j = 0; j <= 1; j++)
                 {
@@ -788,7 +788,7 @@ namespace jogo_da_velha
              *   | O |
              *   |   | X
              */
-            else if (jogadaEfetuada == false && jogadorDaVez == "Computador")
+            if (jogadaEfetuada == false && jogadorDaVez == "Computador")
             {
                 for(int j = 0; j < 2; j++)
                 {
@@ -835,7 +835,7 @@ namespace jogo_da_velha
              * X | O | X
              *   |   | 
              */
-            else if (jogadaEfetuada == false && jogadorDaVez == "Computador")
+            if (jogadaEfetuada == false && jogadorDaVez == "Computador")
             {
                 for (int j = 0; j < 2; j++)
                 {
@@ -885,7 +885,7 @@ namespace jogo_da_velha
              * X | O | X
              *   | X | 
              */
-            else if (jogadaEfetuada == false && jogadaXOXEfetuada == true && jogadorDaVez == "Computador")
+            if (jogadaEfetuada == false && jogadaXOXEfetuada == true && jogadorDaVez == "Computador")
             {
                 if (jogadaXOXHorizontal == true)
                 {
@@ -911,7 +911,7 @@ namespace jogo_da_velha
              *   | O | X
              * O |   | 
              */
-            else if (jogadaEfetuada == false && jogadorDaVez == "Computador")
+            if (jogadaEfetuada == false && jogadorDaVez == "Computador")
             {
                 for (int j = 0; j <= 1; j++)
                 {
@@ -982,7 +982,7 @@ namespace jogo_da_velha
              *   | X |
              *   |   | X
              */
-            else if (imagensExtremidadesO[1].Visibility == Visibility.Hidden && imagensExtremidadesX[1].Visibility == Visibility.Hidden && ultimaJogada == imagensExtremidadesX[2] && jogadaEfetuada == false && jogadorDaVez == "Computador")
+            if (imagensExtremidadesO[1].Visibility == Visibility.Hidden && imagensExtremidadesX[1].Visibility == Visibility.Hidden && ultimaJogada == imagensExtremidadesX[2] && jogadaEfetuada == false && jogadorDaVez == "Computador")
             {
                 ExibirImagem(imagensExtremidadesO[1]);
                 jogadaEfetuada = true;
@@ -994,7 +994,7 @@ namespace jogo_da_velha
              *   | X |
              * X | O | X
              */
-            else if(jogadaEfetuada == false && jogadorDaVez == "Computador")
+            if(jogadaEfetuada == false && jogadorDaVez == "Computador")
             {
                 if(imagensExtremidadesO[0].Visibility == Visibility.Visible && imagensExtremidadesO[1].Visibility == Visibility.Visible && imagensLateraisO[2].Visibility == Visibility.Visible && imagensExtremidadesX[2].Visibility == Visibility.Visible && imagensExtremidadesX[3].Visibility == Visibility.Visible && imagensLateraisX[0].Visibility == Visibility.Visible && imagemPosicaoCentralO.Visibility == Visibility.Visible)
                 {
