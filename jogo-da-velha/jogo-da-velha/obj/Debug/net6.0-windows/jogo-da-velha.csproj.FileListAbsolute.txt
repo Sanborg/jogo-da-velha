@@ -1,0 +1,63 @@
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.csproj.AssemblyReference.cache
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha_MarkupCompile.cache
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha_MarkupCompile.lref
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.exe
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.deps.json
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.runtimeconfig.json
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.dll
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.pdb
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.g.resources
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.AssemblyInfoInputs.cache
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.AssemblyInfo.cs
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.csproj.CoreCompileInputs.cache
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.dll
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\refint\jogo-da-velha.dll
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.pdb
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.genruntimeconfig.cache
+C:\Users\rafas\source\repos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\ref\jogo-da-velha.dll
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.exe
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.deps.json
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.runtimeconfig.json
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.dll
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\ref\jogo-da-velha.dll
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.pdb
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.csproj.AssemblyReference.cache
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha_MarkupCompile.cache
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha_MarkupCompile.lref
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.g.resources
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.AssemblyInfoInputs.cache
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.AssemblyInfo.cs
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.csproj.CoreCompileInputs.cache
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.dll
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\ref\jogo-da-velha.dll
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.pdb
+C:\Users\RES0112515\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.genruntimeconfig.cache
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.exe
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.deps.json
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.runtimeconfig.json
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.dll
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\bin\Debug\net6.0-windows\jogo-da-velha.pdb
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.csproj.AssemblyReference.cache
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha_MarkupCompile.cache
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha_MarkupCompile.lref
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.g.resources
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.AssemblyInfoInputs.cache
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.AssemblyInfo.cs
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.csproj.CoreCompileInputs.cache
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.dll
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\refint\jogo-da-velha.dll
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.pdb
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\jogo-da-velha.genruntimeconfig.cache
+C:\Users\rafas\OneDrive - Firjan\SENAI\Desenvolvimento de Sistemas\Códigos\Programação de Aplicativos\jogo-da-velha\jogo-da-velha\obj\Debug\net6.0-windows\ref\jogo-da-velha.dll
